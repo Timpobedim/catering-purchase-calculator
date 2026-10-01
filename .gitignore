@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+output/
+~$*.xlsx
+
+# SG-11: служебное и персональное — не публикуется
+.omc/
+.claude/
+.env
